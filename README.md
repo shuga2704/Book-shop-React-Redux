@@ -1,3 +1,3 @@
 Book shop React/Redux
 
-![Preview](relative/preview.png "Preview")
+![Preview](preview.png "Preview")
